@@ -8,5 +8,5 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 | Bild 1 | Bild 2 |
 | --- | --- |
 | ![![image](https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/4f5723d5-78da-4a21-a543-b77ebdfc49b0)
-](Bild-URL-1){:width="10px"} | ![Beschreibung 2](Bild-URL-2){:width="300px"} |
+](Bild-URL-1){:width="500px"} | ![Beschreibung 2](Bild-URL-2){:width="300px"} |
 
