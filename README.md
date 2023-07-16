@@ -31,7 +31,7 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/1eec44a8-3037-4d95-840e-61808fd715d7)
+<td align="center"><a href="https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/1eec44a8-3037-4d95-840e-61808fd715d7
 " rel="nofollow"><img src="https://thumb.modcdn.io/mods/7d96/2720820/thumb_1020x2000/thumbnailmatrixsmodcollecti.1.jpg" alt="Logo" data-<a 
 </tr>
 <tr>
