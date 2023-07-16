@@ -8,7 +8,7 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://fireworksmania.mod.io/hell-yeah-mod" rel="nofollow">Hell Yeah Mod</a></th>
+<th align="center"><a href="https://fireworksmania.mod.io/hell-yeah-mod" rel="nofollow">Matrix's FusionFireworks Cake Collection I</a></th>
 <th align="center"><a href="https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta" rel="nofollow">Drivable Vehicle Mod</a></th>
 </tr>
 </thead>
