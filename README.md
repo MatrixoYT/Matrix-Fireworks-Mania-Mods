@@ -11,3 +11,6 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 ![image](https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/ce1c3a51-2275-40ce-8f32-7b1b1db2cf37) Adds 3 new batteries to the game | ![Beschreibung 2](Bild-URL-2) |
 
 
+| Bild 1 | Bild 2 |
+| --- | --- |
+| <img src="[Bild-URL-1](https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/ce1c3a51-2275-40ce-8f32-7b1b1db2cf37)https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/ce1c3a51-2275-40ce-8f32-7b1b1db2cf37" alt="Beschreibung 1" width="200px"> | <img src="Bild-URL-2" alt="Beschreibung 2" width="300px"> |
