@@ -18,7 +18,7 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 <td align="center"><a href="https://camo.githubusercontent.com/0b5bb66357cf505dd5f95cce85b7b9a4bb0715db891f984d24703908de3ef0fe/68747470733a2f2f7468756d622e6d6f6463646e2e696f2f6d6f64732f343832612f313639303034352f63726f705f333230783138302f62616e696572652e312e706e67" rel="nofollow"><img src="https://camo.githubusercontent.com/0b5bb66357cf505dd5f95cce85b7b9a4bb0715db891f984d24703908de3ef0fe/68747470733a2f2f7468756d622e6d6f6463646e2e696f2f6d6f64732f343832612f313639303034352f63726f705f333230783138302f62616e696572652e312e706e67" alt="Logo" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
-<td align="center">A mod that adds lots of fireworks of all kinds as well as several props and is one of the most popular mods.</td>
+<td align="center">This mod adds 3 new batteries to the game.</td>
 <td align="center">A mod that adds functional cars that you can drive in the game.</td>
 </tr>
 </tbody>
