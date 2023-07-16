@@ -5,12 +5,6 @@ Here you can find all Fireworks Mania mods from Matrix! And if you are looking f
 
 Don't forget to join the https://discord.gg/Xp3TYg7d
 
-| Bild 1 | Bild 2 |
-| --- | --- |
-| ![![image](https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/4f5723d5-78da-4a21-a543-b77ebdfc49b0)
-](![image](https://github.com/MatrixoYT/Matrix-Fireworks-Mania-Mods/assets/121494555/80525de7-bc6e-4277-9f0e-1801bc08b4d1)
-){:width="1px"} | ![Beschreibung 2](Bild-URL-2){:width="300px"} |
-
 <table>
 <thead>
 <tr>
