@@ -25,7 +25,7 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://fireworksmania.mod.io/hell-yeah-mod" rel="nofollow">Matrix's Firecracker Collection I</a></th>
+<th align="center"><a href="https://mod.io/g/fireworksmania/m/matrixs-firecracker-collection" rel="nofollow">Matrix's Firecracker Collection I</a></th>
 </tr>
 </thead>
 <tbody>
