@@ -9,7 +9,6 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 <thead>
 <tr>
 <th align="center"><a href="https://fireworksmania.mod.io/hell-yeah-mod" rel="nofollow">Matrix's FusionFireworks Cake Collection I</a></th>
-<th align="center"><a href="https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta" rel="nofollow">Drivable Vehicle Mod</a></th>
 </tr>
 </thead>
 <tbody>
@@ -18,7 +17,7 @@ Don't forget to join the https://discord.gg/Xp3TYg7d
 </tr>
 <tr>
 <td align="center">This mod adds 3 new batteries to the game.</td>
-<td align="center">A mod that adds functional cars that you can drive in the game.</td>
+
 </tr>
 </tbody>
 </table>
