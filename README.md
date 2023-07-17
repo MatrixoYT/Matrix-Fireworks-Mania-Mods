@@ -5,8 +5,6 @@ Here you can find all Fireworks Mania mods from Matrix! And if you are looking f
 
 Don't forget to join the [Matrix Discord Server](https://discord.gg/Xp3TYg7d)
 
-
-
 <table>
 <thead>
 <tr>
