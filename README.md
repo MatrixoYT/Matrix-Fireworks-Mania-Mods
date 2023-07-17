@@ -41,33 +41,3 @@ Don't forget to join the [Matrix Discord Server](https://discord.gg/Xp3TYg7d)
 </tbody>
 </table>
 
-
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Aktuelle Uhrzeit</title>
-</head>
-<body>
-  <h1>Aktuelle Uhrzeit</h1>
-  <div id="uhrzeit"></div>
-
-  <script>
-    function updateUhrzeit() {
-      const jetzt = new Date();
-      const stunden = jetzt.getHours();
-      const minuten = jetzt.getMinutes();
-      const sekunden = jetzt.getSeconds();
-
-      const uhrzeitAnzeige = `${stunden}:${minuten}:${sekunden}`;
-
-      document.getElementById('uhrzeit').textContent = uhrzeitAnzeige;
-    }
-
-    updateUhrzeit();
-    setInterval(updateUhrzeit, 1000);
-  </script>
-</body>
-</html>
-
-
