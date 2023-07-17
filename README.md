@@ -53,7 +53,6 @@ Don't forget to join the [Matrix Discord Server](https://discord.gg/Xp3TYg7d)
   <div id="uhrzeit"></div>
 
   <script>
-    // Funktion zum Aktualisieren der Uhrzeit
     function updateUhrzeit() {
       const jetzt = new Date();
       const stunden = jetzt.getHours();
@@ -65,12 +64,10 @@ Don't forget to join the [Matrix Discord Server](https://discord.gg/Xp3TYg7d)
       document.getElementById('uhrzeit').textContent = uhrzeitAnzeige;
     }
 
-    // Initiales Aktualisieren der Uhrzeit
     updateUhrzeit();
-
-    // Wiederholtes Aktualisieren der Uhrzeit alle Sekunde
     setInterval(updateUhrzeit, 1000);
   </script>
 </body>
 </html>
+
 
