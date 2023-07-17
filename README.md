@@ -66,19 +66,42 @@ Don't forget to join the [Matrix Discord Server](https://discord.gg/Xp3TYg7d)
   </div>
 
   <script>
+    // Funktion zum Speichern eines Kommentars im lokalen Speicher
+    function saveComment(name, comment) {
+      var comments = JSON.parse(localStorage.getItem('comments')) || [];
+      comments.push({ name: name, comment: comment });
+      localStorage.setItem('comments', JSON.stringify(comments));
+    }
+
+    // Funktion zum Laden der Kommentare aus dem lokalen Speicher
+    function loadComments() {
+      var comments = JSON.parse(localStorage.getItem('comments')) || [];
+
+      var commentList = document.getElementById('comment-list');
+      commentList.innerHTML = '';
+
+      comments.forEach(function(comment) {
+        var listItem = document.createElement('li');
+        listItem.innerHTML = '<strong>' + comment.name + ':</strong> ' + comment.comment;
+        commentList.appendChild(listItem);
+      });
+    }
+
+    // Event Listener für das Absenden des Formulars
     document.getElementById('comment-form').addEventListener('submit', function(event) {
       event.preventDefault();
 
       var name = document.getElementById('name').value;
       var comment = document.getElementById('comment').value;
 
-      var listItem = document.createElement('li');
-      listItem.innerHTML = '<strong>' + name + ':</strong> ' + comment;
-
-      document.getElementById('comment-list').appendChild(listItem);
+      saveComment(name, comment);
+      loadComments();
 
       document.getElementById('comment-form').reset();
     });
+
+    // Initialer Aufruf zum Laden der Kommentare
+    loadComments();
   </script>
 </body>
 </html>
