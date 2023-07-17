@@ -41,3 +41,46 @@ Don't forget to join the [Matrix Discord Server](https://discord.gg/Xp3TYg7d)
 </tbody>
 </table>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kommentarbox</title>
+</head>
+<body>
+  <h1>Kommentarbox</h1>
+
+  <form id="comment-form">
+    <label for="name">Name:</label>
+    <input type="text" id="name" required><br><br>
+
+    <label for="comment">Kommentar:</label><br>
+    <textarea id="comment" rows="4" cols="50" required></textarea><br><br>
+
+    <button type="submit">Kommentar absenden</button>
+  </form>
+
+  <div id="comment-section">
+    <h2>Kommentare:</h2>
+    <ul id="comment-list"></ul>
+  </div>
+
+  <script>
+    document.getElementById('comment-form').addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      var name = document.getElementById('name').value;
+      var comment = document.getElementById('comment').value;
+
+      var listItem = document.createElement('li');
+      listItem.innerHTML = '<strong>' + name + ':</strong> ' + comment;
+
+      document.getElementById('comment-list').appendChild(listItem);
+
+      document.getElementById('comment-form').reset();
+    });
+  </script>
+</body>
+</html>
+
+
